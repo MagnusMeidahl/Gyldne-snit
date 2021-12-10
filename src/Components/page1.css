@@ -13,7 +13,7 @@
     display: grid;
     grid-template-columns: 61.8% 9.02% 5.58% 23.6%;
     grid-template-rows: 61.8% 9.02% 5.58% 23.6%;
-    grid-template-areas: "A B B B" "A E F C" "A E G C" "A D D C";
+    grid-template-areas: "A B B B" "A E E C" "A E E C" "A D D C";
   }
   
   .item {
@@ -65,14 +65,4 @@
     max-width: 90%;
     max-height: 90%;
 }
-/* .item.a img {
-    flex-shrink: 0;
-    min-width: 90%;
-    min-height: 90%
-}
-.fill {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden
-} */
+
