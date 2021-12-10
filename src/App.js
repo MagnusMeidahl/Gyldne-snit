@@ -1,8 +1,8 @@
 import './App.css';
 import { Route, Routes } from "react-router-dom";
-import Page1 from "./Components/page1"
-import Page2 from "./Components/page2"
-import Page3 from "./Components/page3"
+import Gyldnespiral from "./Components/gyldnespiral"
+import Gyldnesnit from "./Components/gyldnesnit"
+import Intetdesign from "./Components/intetdesign"
 import Navigation from "./Components/Navigation";
 function App() {
   return (
@@ -11,9 +11,9 @@ function App() {
         <Navigation />
         <br />
         <Routes>
-          <Route exact path="page1" element={<Page1 />} />
-          <Route exact path="page2" element={<Page2 />} />
-          <Route exact path="page3" element={<Page3 />} />
+          <Route exact path="gyldnespiral" element={<Gyldnespiral />} />
+          <Route exact path="gyldnesnit" element={<Gyldnesnit />} />
+          <Route exact path="intetdesign" element={<Intetdesign />} />
         </Routes>
       </div>
     </>

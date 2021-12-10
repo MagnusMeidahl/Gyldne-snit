@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function Page3() {
+export default function Intetdesign() {
     return (
         <div>
-            <h1>Page 3</h1>
+            <h1>Intet design</h1>
         </div>
     )
 }

@@ -9,9 +9,9 @@ const Navigation = () => {
                 <Navbar.Toggle aria-controls='responsive-navbar-nav' />
                 <Navbar.Collapse id='responsive-navbar-nav'>
                     <Nav>
-                        <Nav.Link as={Link} to='page1'>Page 1</Nav.Link>
-                        <Nav.Link as={Link} to='page2'>Page 2</Nav.Link>
-                        <Nav.Link as={Link} to='page3'>Page 3</Nav.Link>
+                        <Nav.Link as={Link} to='gyldnespiral'>Gyldne spiral</Nav.Link>
+                        <Nav.Link as={Link} to='gyldnesnit'>Gyldne snit</Nav.Link>
+                        <Nav.Link as={Link} to='intetdesign'>Intet design</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
             </Container>

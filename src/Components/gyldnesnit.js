@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Page2() {
+export default function Gyldnesnit() {
     return (
         <div class="container">
         <div class="item a">

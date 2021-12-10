@@ -1,6 +1,6 @@
 import React from 'react'
-import './page1.css';
-export default function Page1() {
+import './custum.css';
+export default function Gyldnespiral() {
     return (
         <div class="container2">
             <div class="item a">
