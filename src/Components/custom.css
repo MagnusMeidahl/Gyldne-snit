@@ -14,6 +14,7 @@
     grid-template-columns: 61.8% 9.02% 5.58% 23.6%;
     grid-template-rows: 61.8% 9.02% 5.58% 23.6%;
     grid-template-areas: "A B B B" "A E E C" "A E E C" "A D D C";
+    margin: auto;
   }
   
   .item {
@@ -65,4 +66,7 @@
     max-width: 90%;
     max-height: 90%;
 }
-
+.container3 {
+  position: absolute;
+  left: 0px;
+}

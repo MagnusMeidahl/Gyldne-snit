@@ -1,9 +1,6 @@
-import React from 'react'
+import Template from './Template'
 
 export default function Intetdesign() {
-    return (
-        <div>
-            <h1>Intet design</h1>
-        </div>
-    )
+    return Template("container3")
+        
 }
