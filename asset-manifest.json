@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gyldne-snit/static/css/main.a617e044.chunk.css",
+    "main.js": "/gyldne-snit/static/js/main.9d32c2f3.chunk.js",
+    "main.js.map": "/gyldne-snit/static/js/main.9d32c2f3.chunk.js.map",
+    "runtime-main.js": "/gyldne-snit/static/js/runtime-main.7474af5a.js",
+    "runtime-main.js.map": "/gyldne-snit/static/js/runtime-main.7474af5a.js.map",
+    "static/js/2.eddbb01d.chunk.js": "/gyldne-snit/static/js/2.eddbb01d.chunk.js",
+    "static/js/2.eddbb01d.chunk.js.map": "/gyldne-snit/static/js/2.eddbb01d.chunk.js.map",
+    "static/js/3.ad7f93d2.chunk.js": "/gyldne-snit/static/js/3.ad7f93d2.chunk.js",
+    "static/js/3.ad7f93d2.chunk.js.map": "/gyldne-snit/static/js/3.ad7f93d2.chunk.js.map",
+    "index.html": "/gyldne-snit/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/gyldne-snit/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.eddbb01d.chunk.js.LICENSE.txt": "/gyldne-snit/static/js/2.eddbb01d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/gyldne-snit/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7474af5a.js",
+    "static/js/2.eddbb01d.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.9d32c2f3.chunk.js"
+  ]
+}
