@@ -6,7 +6,7 @@ export default function Template(containerClass) {
     const [fibonacciSequence, setFibonacciSequence] = useState(0);
     function CalculateFibonacci() {
         let rounds = document.querySelector('#rounds').value
-        if (rounds == '') { return; }
+        if (rounds === '') { return; }
         setFibonacciSequence(CalculateFibonacciSequence(rounds));
     }
     return (
