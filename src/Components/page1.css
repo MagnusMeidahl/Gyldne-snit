@@ -32,6 +32,7 @@
   .item.a {
     grid-area: A;
     background-color: #a0ddff;
+
   }
   .item.b {
     grid-area: B;
@@ -60,3 +61,18 @@
     font-size: 0.7em;
     background-color: #7a7a7a;
   }
+  img {
+    max-width: 90%;
+    max-height: 90%;
+}
+/* .item.a img {
+    flex-shrink: 0;
+    min-width: 90%;
+    min-height: 90%
+}
+.fill {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+} */
