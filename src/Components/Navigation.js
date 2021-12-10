@@ -12,6 +12,7 @@ const Navigation = () => {
                         <Nav.Link as={Link} to='gyldnespiral'>Gyldne spiral</Nav.Link>
                         <Nav.Link as={Link} to='gyldnesnit'>Gyldne snit</Nav.Link>
                         <Nav.Link as={Link} to='intetdesign'>Intet design</Nav.Link>
+                        <Nav.Link as={Link} to='fibonacci'>Fibonacci</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
             </Container>
