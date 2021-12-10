@@ -2,6 +2,7 @@ import './App.css';
 import { Route, Routes } from "react-router-dom";
 import Page1 from "./Components/page1"
 import Page2 from "./Components/page2"
+import Page3 from "./Components/page3"
 import Navigation from "./Components/Navigation";
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
         <Routes>
           <Route exact path="page1" element={<Page1 />} />
           <Route exact path="page2" element={<Page2 />} />
+          <Route exact path="page3" element={<Page3 />} />
         </Routes>
       </div>
     </>

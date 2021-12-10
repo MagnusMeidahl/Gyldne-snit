@@ -11,6 +11,7 @@ const Navigation = () => {
                     <Nav>
                         <Nav.Link as={Link} to='page1'>Page 1</Nav.Link>
                         <Nav.Link as={Link} to='page2'>Page 2</Nav.Link>
+                        <Nav.Link as={Link} to='page3'>Page 3</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
             </Container>
